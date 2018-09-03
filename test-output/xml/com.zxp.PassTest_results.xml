@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.037">
+  <properties />
+  
+  
+            <testcase name="isPassTest" time="0.013" classname="com.zxp.PassTest" />
+                <testcase name="isPassTest3" time="0.008" classname="com.zxp.PassTest" />
+                <testcase name="isPassTest2" time="0.016" classname="com.zxp.PassTest" />
+      
+</testsuite>
