@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test" parallel="true">
 
-<suite name="ZxpTestNgSuite" parallel="tests" >
-
-	<test name = "LeanTestNg">
-		<classes>
-			<class name="com.zxp.LinuxTest"/> 
+    <test name="test" preserver-order="true">
+        <classes>
+            <class name="com.zxp.LinuxTest"/> 
 			<class name="com.zxp.PassTest"/> 
-		</classes>
-		
-	</test>
+        </classes>
 
-
+        <listeners>
+            <listener class-name="org.uncommons.reportng.HTMLReporter" />
+            <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+        </listeners>
+    </test> <!-- Test -->
 </suite>
