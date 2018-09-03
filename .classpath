@@ -22,8 +22,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="reportng-1.1.5.jar"/>
-	<classpathentry kind="lib" path="velocity-1.4.jar"/>
-	<classpathentry kind="lib" path="velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/reportng-1.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-dep-1.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
