@@ -10,6 +10,10 @@ public class LinuxTest {
   public void linuxTest() {
 	  Reporter.log("linuxTest测试方法开始");
   }
+  @Test
+  public void linuxTest22() {
+	  Reporter.log("linuxTest22测试方法开始");
+  }
   @BeforeClass
   public void beforeClass() {
 	  Reporter.log("PassTest测试类开始");
