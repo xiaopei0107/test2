@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.008">
+           time="0.010">
   <properties />
   
   
-            <testcase name="test22" time="0.008" classname="com.zxp.LinuxTest" />
+            <testcase name="linuxTest" time="0.010" classname="com.zxp.LinuxTest" />
       
 </testsuite>
