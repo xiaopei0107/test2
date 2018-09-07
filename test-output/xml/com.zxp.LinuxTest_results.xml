@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="test"
-           tests="1"
+           tests="2"
            failures="0"
            errors="0"
            skipped="0"
-           time="0.010">
+           time="0.019">
   <properties />
   
   
-            <testcase name="linuxTest" time="0.010" classname="com.zxp.LinuxTest" />
+            <testcase name="linuxTest22" time="0.013" classname="com.zxp.LinuxTest" />
+                <testcase name="linuxTest" time="0.006" classname="com.zxp.LinuxTest" />
       
 </testsuite>

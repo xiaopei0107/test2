@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.017">
+           time="0.020">
   <properties />
   
   
-            <testcase name="test2" time="0.009" classname="com.zxp.PassTest" />
-                <testcase name="test1" time="0.008" classname="com.zxp.PassTest" />
+            <testcase name="test2" time="0.010" classname="com.zxp.PassTest" />
+                <testcase name="test1" time="0.010" classname="com.zxp.PassTest" />
       
 </testsuite>
